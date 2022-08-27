@@ -1,0 +1,15 @@
+{
+  "namespace": "me.escoffier.quarkus.avro",
+  "type": "record",
+  "name": "Hero",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "picture",
+      "type": "string"
+    }
+  ]
+}
